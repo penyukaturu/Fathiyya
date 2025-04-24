@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("🎈 My new app")
+st.title("Cara turu nyenyak tanpa ketindihan")
 st.write(
-    "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
+    "Beragama, meyakini bahwa tuhan ada & berdoa sebelum tidur. (jgn lupa niatnya tidur ya, bukan nguli 60 soal mtk"
 )
