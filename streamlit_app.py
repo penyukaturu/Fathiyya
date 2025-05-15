@@ -5,4 +5,4 @@ st.write(
     "Beragama, meyakini bahwa tuhan ada & berdoa sebelum tidur. (jgn lupa niatnya tidur ya, bukan nguli 60 soal mtk"
 )
 
-st.image("view/f9ae166528e2c5171fd8eea90d860502.jpg")
+st.image("view/64c5f432fdf27f66506429bfb56f7ca2.jpg")
