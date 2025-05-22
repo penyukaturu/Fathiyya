@@ -16,7 +16,7 @@ st.write(
 
 
 
-st.header("Aplikasi Mengecek Nilai Genap/Ganjil")
+st.header("Aplikasi Mengecek Nilai Genap/Ganjil Rawr")
 angka = st.number_input("Tulis sebuah Angka:", value=0, step=1)
 
 if (angka % 2) == 0:
